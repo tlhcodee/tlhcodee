@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha a.k.a TlhCode</h1>
 <h3 align="center">A indie game & software developer from turkey</h3>
+`Hello there, welcome to my page! let me introduce myself. i love coding, theatre.`
+`I'm an 17 years old student from turkey, i always wanted to learn coding and here i am :D`
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tlhcodee&label=Profile%20views&color=0e75b6&style=flat" alt="tlhcodee" /> </p>
 
