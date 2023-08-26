@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Talha a.k.a TlhCode</h1>
 <h3 align="center">A indie game & software developer from turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tlhcodee&label=Profile%20views&color=0e75b6&style=flat" alt="tlhcodee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tlhcodee&label=Profile%20views&color=0e75b6&style=flat" alt="tlhcodee" /> </p>
 
-<b align="center">Analystics</b>
+<b align="left">Analystics</b>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlhcodee" alt="tlhcodee" /></a> </p>
 </p>
 
